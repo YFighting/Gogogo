@@ -6,4 +6,5 @@
 
 
 //m+1
-//yuying
+//xiaoshazi
+cout << "1" << endl;
